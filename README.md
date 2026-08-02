@@ -1,5 +1,9 @@
 # agent-transcript-search
 
+<p align="center">
+  <img src="docs/repo-banner.png" alt="ats banner" width="100%">
+</p>
+
 One FTS index across **Claude Code**, **Hermes**, **Cursor**, and **Codex** session logs.
 
 > "where did we do that thing three sessions ago?" — now answerable in one command.
